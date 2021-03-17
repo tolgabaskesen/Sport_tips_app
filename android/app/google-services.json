@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "822592980262",
+    "firebase_url": "https://bets-for-win.firebaseio.com",
+    "project_id": "bets-for-win",
+    "storage_bucket": "bets-for-win.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822592980262:android:329b2f4b374a86c8afede7",
+        "android_client_info": {
+          "package_name": "com.tolgas.betforwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822592980262-v1ev7f4gmk2nbjjn9gbb8b7pdro6ohi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1D0cXMlB9gGhir_qdYyeyrdF-OqmjHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822592980262-v1ev7f4gmk2nbjjn9gbb8b7pdro6ohi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822592980262-0ioma0v634df4v6vh543j9f5kukjna2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tolgas.tiphouse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822592980262:android:b3184ee0144bc601afede7",
+        "android_client_info": {
+          "package_name": "com.tolgas.tiphouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822592980262-v1ev7f4gmk2nbjjn9gbb8b7pdro6ohi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1D0cXMlB9gGhir_qdYyeyrdF-OqmjHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822592980262-v1ev7f4gmk2nbjjn9gbb8b7pdro6ohi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822592980262-0ioma0v634df4v6vh543j9f5kukjna2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tolgas.tiphouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
